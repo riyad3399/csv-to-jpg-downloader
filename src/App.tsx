@@ -13,7 +13,7 @@ function App() {
               <Download className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">CSV Image Downloader</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Converter</h1>
               <p className="text-sm text-gray-600">Upload CSV files and download images as ZIP</p>
             </div>
           </div>
@@ -121,7 +121,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center text-gray-600">
             <p className="text-sm">
-              Built with React, Node.js, Express, and MongoDB
+              Create by Riyad khan
             </p>
             <p className="text-xs mt-2 opacity-75">
               Supports concurrent processing with automatic error handling
